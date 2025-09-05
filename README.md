@@ -130,3 +130,4 @@ In simple terms:
 
 *OUTPUT*:
 
+<img width="1840" height="732" alt="Image" src="https://github.com/user-attachments/assets/8259c05e-aa5d-4ea1-b6b6-7fc153a23d20" />
